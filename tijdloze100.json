@@ -1,107 +1,86 @@
 [
-  {
-    "rank": 1,
-    "title": "Black",
-    "artist": "Pearl Jam",
-    "album": "Ten",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/PearlJam-Ten2.jpg"
-  },
-  {
-    "rank": 2,
-    "title": "Mia",
-    "artist": "Gorki",
-    "album": "Vooruitgang",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Gorki_-_Vooruitgang.jpg"
-  },
-  {
-    "rank": 3,
-    "title": "Heroes",
-    "artist": "David Bowie",
-    "album": "Heroes",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/9/9d/David_Bowie_-_Heroes.png"
-  },
-  {
-    "rank": 4,
-    "title": "Smells Like Teen Spirit",
-    "artist": "Nirvana",
-    "album": "Nevermind",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
-  },
-  {
-    "rank": 5,
-    "title": "One",
-    "artist": "Metallica",
-    "album": "...And Justice for All",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_...And_Justice_for_All_cover.jpg"
-  },
-  {
-    "rank": 6,
-    "title": "Wish You Were Here",
-    "artist": "Pink Floyd",
-    "album": "Wish You Were Here",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Wish_You_Were_Here_%28Pink_Floyd_album%29.png"
-  },
-  {
-    "rank": 7,
-    "title": "Under The Bridge",
-    "artist": "Red Hot Chili Peppers",
-       "album": "Blood Sugar Sex Magik",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/0/00/RHCP-BSSM.jpg"
-  },
-  {
-    "rank": 8,
-    "title": "Creep",
-    "artist": "Radiohead",
-    "album": "Pablo Honey",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/0/09/Radiohead.pablohoney.albumart.jpg"
-  },
-  {
-    "rank": 9,
-    "title": "Nightswimming",
-    "artist": "R.E.M.",
-    "album": "Automatic for the People",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Automatic_for_the_People.jpg"
-  },
-  {
-    "rank": 10,
-    "title": "Hurt",
-    "artist": "Nine Inch Nails / Johnny Cash",
-    "album": "American IV: The Man Comes Around",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/0/0a/AmericanIV.jpg"
-  },
-  {
-    "rank": 11,
-    "title": "Paranoid Android",
-    "artist": "Radiohead",
-    "album": "OK Computer",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg"
-  },
-  {
-    "rank": 12,
-    "title": "The Man Who Sold The World",
-    "artist": "Nirvana (MTV Unplugged)",
-    "album": "MTV Unplugged in New York",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/8/8a/Nirvana_mtv_unplugged_in_new_york.png"
-  },
-  {
-    "rank": 13,
-    "title": "Everlong",
-    "artist": "Foo Fighters",
-    "album": "The Colour and the Shape",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/5/5a/FooFighters-TheColourAndTheShape.jpg"
-  },
-  {
-    "rank": 14,
-    "title": "The Sound Of Silence",
-    "artist": "Simon & Garfunkel",
-    "album": "Sounds of Silence",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Simon_and_Garfunkel%2C_Sounds_of_Silence_%281966%29.png"
-  },
-  {
-    "rank": 15,
-    "title": "Killing In The Name",
-    "artist": "Rage Against The Machine",
-    "album": "Rage Against the Machine",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/7/7e/RageAgainsttheMachineRageAgainsttheMachine.jpg"
-  }
+  {"rank":1,"title":"Black","artist":"Pearl Jam","album":"Ten","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2d/PearlJam-Ten2.jpg"},
+  {"rank":2,"title":"Mia","artist":"Gorki","album":"Vooruitgang","cover_url":null},
+  {"rank":3,"title":"Heroes","artist":"David Bowie","album":"Heroes","cover_url":"https://upload.wikimedia.org/wikipedia/en/9/9d/David_Bowie_-_Heroes.png"},
+  {"rank":4,"title":"Smells Like Teen Spirit","artist":"Nirvana","album":"Nevermind","cover_url":"https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"},
+  {"rank":5,"title":"One","artist":"Metallica","album":"...And Justice for All","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_...And_Justice_for_All_cover.jpg"},
+  {"rank":6,"title":"Wish You Were Here","artist":"Pink Floyd","album":"Wish You Were Here","cover_url":"https://upload.wikimedia.org/wikipedia/en/3/3b/Wish_You_Were_Here_%28Pink_Floyd_album%29.png"},
+  {"rank":7,"title":"Under The Bridge","artist":"Red Hot Chili Peppers","album":"Blood Sugar Sex Magik","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/00/RHCP-BSSM.jpg"},
+  {"rank":8,"title":"Creep","artist":"Radiohead","album":"Pablo Honey","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/09/Radiohead.pablohoney.albumart.jpg"},
+  {"rank":9,"title":"Nightswimming","artist":"R.E.M.","album":"Automatic for the People","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0e/Automatic_for_the_People.jpg"},
+  {"rank":10,"title":"Hurt","artist":"Johnny Cash","album":"American IV: The Man Comes Around","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0a/AmericanIV.jpg"},
+  {"rank":11,"title":"Paranoid Android","artist":"Radiohead","album":"OK Computer","cover_url":"https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg"},
+  {"rank":12,"title":"The Man Who Sold The World","artist":"Nirvana","album":"MTV Unplugged in New York","cover_url":"https://upload.wikimedia.org/wikipedia/en/8/8a/Nirvana_mtv_unplugged_in_new_york.png"},
+  {"rank":13,"title":"Everlong","artist":"Foo Fighters","album":"The Colour and the Shape","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5a/FooFighters-TheColourAndTheShape.jpg"},
+  {"rank":14,"title":"The Sound Of Silence","artist":"Simon & Garfunkel","album":"Sounds of Silence","cover_url":"https://upload.wikimedia.org/wikipedia/en/1/1e/Simon_and_Garfunkel%2C_Sounds_of_Silence_%281966%29.png"},
+  {"rank":15,"title":"Killing In The Name","artist":"Rage Against The Machine","album":"Rage Against the Machine","cover_url":"https://upload.wikimedia.org/wikipedia/en/7/7e/RageAgainsttheMachineRageAgainsttheMachine.jpg"},
+  {"rank":16,"title":"Bohemian Rhapsody","artist":"Queen","album":"A Night at the Opera","cover_url":"https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png"},
+  {"rank":17,"title":"Nothing Else Matters","artist":"Metallica","album":"Metallica (The Black Album)","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg"},
+  {"rank":18,"title":"Fix You","artist":"Coldplay","album":"X&Y","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/28/Coldplay_X%26Y.png"},
+  {"rank":19,"title":"Mr. Brightside","artist":"The Killers","album":"Hot Fuss","cover_url":"https://upload.wikimedia.org/wikipedia/en/1/17/The_Killers_-_Hot_Fuss.png"},
+  {"rank":20,"title":"Stairway To Heaven","artist":"Led Zeppelin","album":"Led Zeppelin IV","cover_url":"https://upload.wikimedia.org/wikipedia/en/8/87/Led_Zeppelin_-_Led_Zeppelin_IV.jpg"},
+
+  {"rank":21,"title":"Lose Yourself","artist":"Eminem","album":"8 Mile","cover_url":"https://upload.wikimedia.org/wikipedia/en/8/8f/8milecover.jpg"},
+  {"rank":22,"title":"Zombie","artist":"The Cranberries","album":"No Need to Argue","cover_url":"https://upload.wikimedia.org/wikipedia/en/4/45/Cranberries_-_No_Need_to_Argue.png"},
+  {"rank":23,"title":"November Rain","artist":"Guns N' Roses","album":"Use Your Illusion I","cover_url":"https://upload.wikimedia.org/wikipedia/en/1/1e/GunsnRosesUseYourIllusion1.jpg"},
+  {"rank":24,"title":"Hallelujah","artist":"Jeff Buckley","album":"Grace","cover_url":"https://upload.wikimedia.org/wikipedia/en/6/6b/Jeff_Buckley_grace.jpg"},
+  {"rank":25,"title":"Seven Nation Army","artist":"The White Stripes","album":"Elephant","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0e/Elephant%2C_The_White_Stripes.png"},
+
+  {"rank":26,"title":"Come As You Are","artist":"Nirvana","album":"Nevermind","cover_url":"https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"},
+  {"rank":27,"title":"Run","artist":"Snow Patrol","album":"Final Straw","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5c/Snow_Patrol_-_Final_Straw.png"},
+  {"rank":28,"title":"Where Is My Mind?","artist":"Pixies","album":"Surfer Rosa","cover_url":"https://upload.wikimedia.org/wikipedia/en/9/9a/Pixies-SurferRosa.jpg"},
+  {"rank":29,"title":"Sweet Child O' Mine","artist":"Guns N' Roses","album":"Appetite for Destruction","cover_url":"https://upload.wikimedia.org/wikipedia/en/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg"},
+  {"rank":30,"title":"Hurt","artist":"Nine Inch Nails","album":"The Downward Spiral","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0f/Nine_Inch_Nails_-_The_Downward_Spiral.png"},
+
+  {"rank":31,"title":"The Scientist","artist":"Coldplay","album":"A Rush of Blood to the Head","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/29/Coldplay_-_A_Rush_of_Blood_to_the_Head.png"},
+  {"rank":32,"title":"Alive","artist":"Pearl Jam","album":"Ten","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2d/PearlJam-Ten2.jpg"},
+  {"rank":33,"title":"Chasing Cars","artist":"Snow Patrol","album":"Eyes Open","cover_url":"https://upload.wikimedia.org/wikipedia/en/4/4f/Snow_Patrol_-_Eyes_Open.png"},
+  {"rank":34,"title":"Jeremy","artist":"Pearl Jam","album":"Ten","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2d/PearlJam-Ten2.jpg"},
+  {"rank":35,"title":"Karma Police","artist":"Radiohead","album":"OK Computer","cover_url":"https://upload.wikimedia.org/wikipedia/en/a/a1/Radiohead.okcomputer.albumart.jpg"},
+
+  {"rank":36,"title":"In the End","artist":"Linkin Park","album":"Hybrid Theory","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2c/Linkin_Park_Hybrid_Theory_Album_Cover.jpg"},
+  {"rank":37,"title":"Losing My Religion","artist":"R.E.M.","album":"Out of Time","cover_url":"https://upload.wikimedia.org/wikipedia/en/4/4d/R.E.M._-_Out_of_Time.jpg"},
+  {"rank":38,"title":"Sultans of Swing","artist":"Dire Straits","album":"Dire Straits","cover_url":"https://upload.wikimedia.org/wikipedia/en/8/8a/Dire_Straits_%28album%29_cover.png"},
+  {"rank":39,"title":"Hysteria","artist":"Muse","album":"Absolution","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5c/Muse_-_Absolution_Cover_Art.png"},
+  {"rank":40,"title":"Clocks","artist":"Coldplay","album":"A Rush of Blood to the Head","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/29/Coldplay_-_A_Rush_of_Blood_to_the_Head.png"},
+
+  {"rank":41,"title":"Mr. Blue Sky","artist":"Electric Light Orchestra","album":"Out of the Blue","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5f/ELO-Out_of_the_Blue_Lp.jpg"},
+  {"rank":42,"title":"Take Me Out","artist":"Franz Ferdinand","album":"Franz Ferdinand","cover_url":"https://upload.wikimedia.org/wikipedia/en/6/6b/Franz_Ferdinand_-_Franz_Ferdinand.png"},
+  {"rank":43,"title":"Rehab","artist":"Amy Winehouse","album":"Back to Black","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2f/Amy_Winehouse_-_Back_to_Black_%28album%29.png"},
+  {"rank":44,"title":"Sex on Fire","artist":"Kings of Leon","album":"Only by the Night","cover_url":"https://upload.wikimedia.org/wikipedia/en/4/4a/Kings_of_Leon_-_Only_by_the_Night.png"},
+  {"rank":45,"title":"Somebody Told Me","artist":"The Killers","album":"Hot Fuss","cover_url":"https://upload.wikimedia.org/wikipedia/en/1/17/The_Killers_-_Hot_Fuss.png"},
+
+  {"rank":46,"title":"Back to Black","artist":"Amy Winehouse","album":"Back to Black","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2f/Amy_Winehouse_-_Back_to_Black_%28album%29.png"},
+  {"rank":47,"title":"Time","artist":"Pink Floyd","album":"The Dark Side of the Moon","cover_url":"https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png"},
+  {"rank":48,"title":"High and Dry","artist":"Radiohead","album":"The Bends","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/02/Radiohead.bends.albumart.jpg"},
+  {"rank":49,"title":"The Pretender","artist":"Foo Fighters","album":"Echoes, Silence, Patience & Grace","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0c/FooFighters-ESP%26G.jpg"},
+  {"rank":50,"title":"Lithium","artist":"Nirvana","album":"Nevermind","cover_url":"https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"},
+
+  {"rank":51,"title":"Voodoo Child","artist":"Jimi Hendrix","album":"Electric Ladyland","cover_url":"https://upload.wikimedia.org/wikipedia/en/9/9e/Electric_Ladyland.jpg"},
+  {"rank":52,"title":"I Bet You Look Good on the Dancefloor","artist":"Arctic Monkeys","album":"Whatever People Say I Am, That's What I'm Not","cover_url":"https://upload.wikimedia.org/wikipedia/en/9/9f/Arctic_Monkeys_-_Whatever_People_Say_I_Am%2C_That%27s_What_I%27m_Not.png"},
+  {"rank":53,"title":"Everlong (Acoustic)","artist":"Foo Fighters","album":null,"cover_url":null},
+  {"rank":54,"title":"Bad Guy","artist":"Billie Eilish","album":"When We All Fall Asleep, Where Do We Go?","cover_url":"https://upload.wikimedia.org/wikipedia/en/7/7e/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png"},
+  {"rank":55,"title":"Don't Look Back in Anger","artist":"Oasis","album":"(What's the Story) Morning Glory?","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5e/Oasis_-_%28What%27s_the_Story%29_Morning_Glory_album_cover.png"},
+
+  {"rank":56,"title":"Enter Sandman","artist":"Metallica","album":"Metallica (The Black Album)","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg"},
+  {"rank":57,"title":"The Less I Know the Better","artist":"Tame Impala","album":"Currents","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5a/Tame_Impala_-_Currents.png"},
+  {"rank":58,"title":"Take On Me","artist":"a-ha","album":"Hunting High and Low","cover_url":"https://upload.wikimedia.org/wikipedia/en/6/6a/A-ha_Hunting_High_and_Low.png"},
+  {"rank":59,"title":"Africa","artist":"Toto","album":"Toto IV","cover_url":"https://upload.wikimedia.org/wikipedia/en/1/1b/Toto_-_Toto_IV.png"},
+  {"rank":60,"title":"All My Life","artist":"Foo Fighters","album":"One by One","cover_url":"https://upload.wikimedia.org/wikipedia/en/1/1b/FooFighters-OneByOne.jpg"},
+
+  {"rank":61,"title":"The Chain","artist":"Fleetwood Mac","album":"Rumours","cover_url":"https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG"},
+  {"rank":62,"title":"Psycho","artist":"Muse","album":"Drones","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5e/MuseDronesCover.jpg"},
+  {"rank":63,"title":"I Will Wait","artist":"Mumford & Sons","album":"Babel","cover_url":"https://upload.wikimedia.org/wikipedia/en/5/5a/Mumford_%26_Sons_-_Babel.png"},
+  {"rank":64,"title":"Use Somebody","artist":"Kings of Leon","album":"Only by the Night","cover_url":"https://upload.wikimedia.org/wikipedia/en/4/4a/Kings_of_Leon_-_Only_by_the_Night.png"},
+  {"rank":65,"title":"Don't Stop Me Now","artist":"Queen","album":"Jazz","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0f/Queen_Jazz.png"},
+
+  {"rank":66,"title":"No One Knows","artist":"Queens of the Stone Age","album":"Songs for the Deaf","cover_url":"https://upload.wikimedia.org/wikipedia/en/1/1c/QOTSA_-_Songs_for_the_Deaf.png"},
+  {"rank":67,"title":"The Passenger","artist":"Iggy Pop","album":"Lust for Life","cover_url":"https://upload.wikimedia.org/wikipedia/en/3/3b/Iggy_Pop_-_Lust_for_Life.jpg"},
+  {"rank":68,"title":"Feel Good Inc.","artist":"Gorillaz","album":"Demon Days","cover_url":"https://upload.wikimedia.org/wikipedia/en/d/df/Gorillaz_Demon_Days.PNG"},
+  {"rank":69,"title":"The Unforgiven","artist":"Metallica","album":"Metallica (The Black Album)","cover_url":"https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg"},
+  {"rank":70,"title":"I Want to Break Free","artist":"Queen","album":"The Works","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0c/Queen_The_Works.png"},
+
+  {"rank":71,"title":"Reckoner","artist":"Radiohead","album":"In Rainbows","cover_url":"https://upload.wikimedia.org/wikipedia/en/6/6a/Radiohead_-_In_Rainbows.png"},
+  {"rank":72,"title":"Plug In Baby","artist":"Muse","album":"Origin of Symmetry","cover_url":"https://upload.wikimedia.org/wikipedia/en/4/4d/Muse_-_Origin_of_Symmetry.jpg"},
+  {"rank":73,"title":"The End","artist":"The Doors","album":"The Doors","cover_url":"https://upload.wikimedia.org/wikipedia/en/0/0c/The_Doors_-_The_Doors.png"}
 ]
